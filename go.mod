@@ -7,7 +7,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-chi/chi v4.0.2+incompatible
-	github.com/gofrs/uuid v3.2.0+incompatible
+	github.com/gofrs/uuid v4.3.1+incompatible
 	github.com/gorilla/mux v1.7.3
 	golang.org/x/sys v0.0.0-20220928140112-f11e5e49a4ec
 	gopkg.in/fsnotify.v1 v1.4.2
