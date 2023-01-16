@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/clbanning/mxj v1.8.4
-	github.com/dustin/go-humanize v1.0.0
+	github.com/dustin/go-humanize v1.0.1
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-chi/chi v4.0.2+incompatible
 	github.com/gofrs/uuid v3.2.0+incompatible
