@@ -9,7 +9,7 @@ require (
 	github.com/go-chi/chi v4.0.2+incompatible
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/gorilla/mux v1.7.3
-	golang.org/x/sys v0.0.0-20220928140112-f11e5e49a4ec
+	golang.org/x/sys v0.6.0
 	gopkg.in/fsnotify.v1 v1.4.2
 )
 
